@@ -11,7 +11,7 @@ GUIDE :
 -----------------------------------------------------------------------------------
 To run the simulation, follow these steps:
 
-- Open the TiaPortalV17 program on your computer.
+- Open the TiaPortalV16 program on your computer.
 - Once the program is launched, locate and run the simulation. The PLCSim will 
 start automatically, simulating the behavior of the programmable logic controller.
 - Next, open the Factory IO software. This application provides a virtual environment for simulating industrial processes and equipment.
