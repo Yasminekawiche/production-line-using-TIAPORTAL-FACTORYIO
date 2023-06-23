@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2023-04-29 17:34:08 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="myproject.HMI_1[TP700 Comfort INOX PCT]"
+    RtProjectFolderName="myproject.HMI_1[TP700 Comfort INOX PCT]"
+    DeviceType="TP700 Comfort INOX PCT"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.0"
+    ImageReleaseNo="16.0.0.0"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="CP_7_9_INOX_PCT" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <FullDownload>DeviceSettings.hsf</FullDownload>
+</DownloadTask>

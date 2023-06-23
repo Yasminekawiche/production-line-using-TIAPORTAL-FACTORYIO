@@ -1,0 +1,16 @@
+þÿÿÿ¶###id###VisulizationRootBrowsableId###TargetIdNameText.0Text.1
+AlarmClass-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsDisplayName###SearchFilterIdsTitleLanguageVersion###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentSCL CodeConstant nameEvent classNetwork titleLADFBD CodeCommentDatatypeAddressValue###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreText.2AuthorFamilyUser-defined IDInstance DBAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomain	CycleUnit	CycleTimeNumber	ShortName
+LogoutTimeDataType	BackColor	GridColor
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityAboveUpperLimitColorBackFillStyleBelowLowerLimitColorBorderBackColorBorderColorCaptionColorCaptionFontCaptionText	EdgeStyleFirstGradientColorFlashing
+FocusColorFont	ForeColorHelpTextHorizontalAlignmentHorizontalPictureAlignmentInnerBackColorOffInnerBackColorOnMiddleGradientColorModePictureAutoSizing
+PictureOff	PictureOnSecondGradientColorSwitchOrientationTextOffTextOnTextOrientationVerticalAlignmentVerticalPictureAlignment	FunctionsAdaptPicture
+AutoSizingLayerScrollBarOrientationTransparentColor
+DataFormatFormatPatternUnitTextTagAddressPanelInfoAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCodingPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
+StartValueAddressAccessMode
+ConnectionEvenRowBackColorSelectBackColorSelectForeColorTextListPropertyNameTagValueForPropertyTagPagePictureAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorCaptionColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterTextGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewTypeTemplateCommonAlarmClassStationNamePartnerNameNodeNameUITypeEditorBitPositionUITypeEditorTagExpressionRangeFromToUITypeEditorStartvalueUITypeEditorEndvalue
